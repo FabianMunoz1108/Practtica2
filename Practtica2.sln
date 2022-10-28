@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeLaSalle.TaxCalculator.App", "DeLaSalle.TaxCalculator.App\DeLaSalle.TaxCalculator.App.csproj", "{1A79D2A0-CDCF-4B51-BEA1-5E62A23258E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeLaSalle.TaxCalculator.Core", "DeLaSalle.TaxCalculator.Core\DeLaSalle.TaxCalculator.Core.csproj", "{BF3B6183-80A0-45BA-9D69-6A6A6EE38730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A79D2A0-CDCF-4B51-BEA1-5E62A23258E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A79D2A0-CDCF-4B51-BEA1-5E62A23258E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A79D2A0-CDCF-4B51-BEA1-5E62A23258E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A79D2A0-CDCF-4B51-BEA1-5E62A23258E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3B6183-80A0-45BA-9D69-6A6A6EE38730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3B6183-80A0-45BA-9D69-6A6A6EE38730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3B6183-80A0-45BA-9D69-6A6A6EE38730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3B6183-80A0-45BA-9D69-6A6A6EE38730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0D84D89-0EFC-4355-BC1A-329455075F5C}
+	EndGlobalSection
+EndGlobal
