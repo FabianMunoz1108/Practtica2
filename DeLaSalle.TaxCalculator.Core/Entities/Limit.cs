@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DeLaSalle.TaxCalculator.Core.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,5 +13,6 @@ namespace DeLaSalle.TaxCalculator.Core.Entities
         public double UpperLimit { get; set; }
         public double FixedFee { get; set; }
         public double SurplusPercentage { get; set; }
+        public Porcentaje RangoPorcentaje { get; set; }
     }
 }

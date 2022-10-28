@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeLaSalle.TaxCalculator.App
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeLaSalle.TaxCalculator.Core", "DeLaSalle.TaxCalculator.Core\DeLaSalle.TaxCalculator.Core.csproj", "{BF3B6183-80A0-45BA-9D69-6A6A6EE38730}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeLaSalle.TaxCalculator.Test", "DeLaSalle.TaxCalculator.Test\DeLaSalle.TaxCalculator.Test.csproj", "{7C327822-0F10-4985-83DC-8480FBB9C308}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BF3B6183-80A0-45BA-9D69-6A6A6EE38730}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF3B6183-80A0-45BA-9D69-6A6A6EE38730}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF3B6183-80A0-45BA-9D69-6A6A6EE38730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C327822-0F10-4985-83DC-8480FBB9C308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C327822-0F10-4985-83DC-8480FBB9C308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C327822-0F10-4985-83DC-8480FBB9C308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C327822-0F10-4985-83DC-8480FBB9C308}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
